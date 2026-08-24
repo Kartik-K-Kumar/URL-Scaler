@@ -23,9 +23,12 @@ go version
 
 git clone [https://github.com/Kartik-K-Kumar/URL-Scaler.git](https://github.com/Kartik-K-Kumar/URL-Scaler.git)
 cd URL-Scaler
+'''
 
 ## **Usage**
+'''
 go run main.go
+'''
 add a URL you would like to shrink and click "Enter"
 
 ##**Contact**
